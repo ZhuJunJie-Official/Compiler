@@ -4,7 +4,7 @@
     <img src="https://azstudio.net.cn/logo.png" width="200" height="200" alt="AZ Studio">
   </a>
 
-# AZ Studio 32-位 编译器 | AZ Studio 32-Bit Compiler
+# AZ Studio 编译器 | AZ Studio Compiler
 
 _✨ 优雅地编辑程序✨_
 
@@ -13,7 +13,7 @@ _✨ 优雅地编辑程序✨_
 
 > 1.[网站下载](https://azstudio.net.cn/81.html)
 > 
-> 2.[分发下载](https://github.com/ZhuJunJie-Official/32-Bit-Compiler/releases)
+> 2.[分发下载](https://github.com/ZhuJunJie-Official/Compiler/releases)
 
 
 > 本软件由 Visual Basic 语言强力驱动。
@@ -45,7 +45,7 @@ _✨ 优雅地编辑程序✨_
 
 3.运行
  
-运行桌面上的```AZ Studio 32-位 编译器```。
+运行桌面上的```AZ Studio 编译器```。
 
 ### 历史版本
 - 1.0.0：
@@ -72,7 +72,7 @@ _✨ 优雅地编辑程序✨_
 > 
 > ```没有更新到 3.0.0 版本的请尽快更新到 3.0.0 版本，旧版本具有重大漏洞。```
 > 
-> AZ Studio 32-位 编译器 和 AZ Studio 库编译器的区别在于：AZ Studio 32-位 编译器 具有最完整的功能和体验，AZ Studio 库编译器 最具有小巧，稳定性，简洁。
+> AZ Studio 编译器 具有最完整的功能和体验。
 
 ### 版权说明
 
