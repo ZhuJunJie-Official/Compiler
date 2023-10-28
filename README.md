@@ -11,9 +11,7 @@ _✨ 优雅地编辑程序✨_
 </div>
 
 
-> 1.[网站下载](https://azstudio.net.cn/81.html)
-> 
-> 2.[分发下载](https://github.com/ZhuJunJie-Official/Compiler/releases)
+> 1.[GitHub 下载](https://github.com/ZhuJunJie-Official/Compiler/releases)
 
 
 > 本软件由 Visual Basic 语言强力驱动。
